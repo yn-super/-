@@ -1,0 +1,5 @@
+{
+  "name": "Vintage Photo Editor",
+  "description": "An AI-powered photo editor that applies a vintage record album aesthetic to your images using Google's Nano Banana model (gemini-2.5-flash-image-preview).",
+  "requestFramePermissions": []
+}
